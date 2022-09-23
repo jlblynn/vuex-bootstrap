@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vuex
 
 > A Vue.js project
@@ -298,3 +299,8 @@ login({ state, commit, rootState, rootGetters }) {
 
 For dispatching actions it's the same.
 When invokng a dispatch method pass an object as the 3rd arg with the root key and a value of true.
+||||||| empty tree
+=======
+# vuex-bootstrap
+Vuex user data and bootstrap example
+>>>>>>> 06aa6d2eacbe5867b3b023dba66377cc234fc7b0
